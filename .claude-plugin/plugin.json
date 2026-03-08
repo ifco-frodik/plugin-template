@@ -1,0 +1,12 @@
+{
+  "name": "{plugin-name}",
+  "version": "1.0.0",
+  "description": "{Brief description of what this plugin does}",
+  "author": {
+    "name": "{Team Name}",
+    "email": "{team@org.com}"
+  },
+  "homepage": "https://github.com/ifco-frodik/{plugin-name}",
+  "repository": "https://github.com/ifco-frodik/{plugin-name}",
+  "keywords": ["{keyword1}", "{keyword2}"]
+}
